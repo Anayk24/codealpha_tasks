@@ -7,8 +7,8 @@ The program uses **structures** to store student details
 
 ## 🎯 Purpose The goal of this task is to practice: 
 - Using **structures** for real‑world data representation.
-- - Implementing **file handling** to store records permanently.
-  - - Designing a **menu‑driven program** with switch‑case for user interaction.
+- Implementing **file handling** to store records permanently.
+- Designing a **menu‑driven program** with switch‑case for user interaction.
 ## ⚙️ Features 
 - Add new student records
 - Display all student records
