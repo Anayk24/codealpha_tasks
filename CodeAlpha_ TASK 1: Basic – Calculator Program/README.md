@@ -9,3 +9,7 @@ Clear, easy‑to‑use menu interface.
 Handles addition, subtraction, multiplication, and division.
 Division by zero check for safe execution.
 Well‑documented code with inline comments for readability.
+
+## Output:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7e10ad59-d4bf-4583-a649-dfa6d69cd4fd" />
