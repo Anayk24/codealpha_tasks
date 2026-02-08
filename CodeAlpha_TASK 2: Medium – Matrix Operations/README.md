@@ -13,3 +13,4 @@ The goal of this task is to strengthen understanding of **multi‑dimensional ar
 Matrix operations are widely used in computer science, data processing, and graphics, so this exercise builds a strong foundation for more advanced applications.
 
 ## Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d1e04ae-a523-410c-9220-245194e51ddd" />
