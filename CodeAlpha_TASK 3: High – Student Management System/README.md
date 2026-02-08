@@ -18,3 +18,4 @@ The program uses **structures** to store student details
 - Records stored permanently in `students.dat`
 
 ## Sample Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b86d773-2997-4d92-a063-afd04dfcb76c" />
